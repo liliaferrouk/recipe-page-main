@@ -31,7 +31,7 @@ h2{
     margin-top: 1.25rem;
     font-size: 1.75rem;
 }
-h4{
+h3{
     color: hsl(332, 51%, 32%);
     font-size: 1.25rem;
 }
@@ -162,7 +162,7 @@ footer p{
     }
     footer {
         position: relative;
-        margin-top: 1rem;
+        margin-top: 2rem;
     }
     footer p{
         display: block;
